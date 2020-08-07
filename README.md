@@ -1,7 +1,4 @@
 ### Hi I'm Hariprasath 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-Hari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hariprasath-thanarajah-5234b660/)]
-(https://www.linkedin.com/in/hariprasath-thanarajah-5234b660/)
 [![Medium Badge](https://img.shields.io/badge/-@__tharis63-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@tharis63)](https://medium.com/@tharis63)
 [![Twitter Badge](https://img.shields.io/badge/-@__hariss63--1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hariss63)](https://twitter.com/hariss63)
 [![Instagram Badge](https://img.shields.io/badge/-@tharis63-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/tharis63/)](https://www.instagram.com/tharis63/)
