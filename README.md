@@ -1,6 +1,6 @@
 ### Hi I'm Hariprasath 👋
 [![Medium Badge](https://img.shields.io/badge/-@__tharis63-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@tharis63)](https://medium.com/@tharis63)
-[![Twitter Badge](https://img.shields.io/badge/-@__hariss63--1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hariss63)](https://twitter.com/hariss63)
+[![Twitter Badge](https://img.shields.io/badge/-@hariss63-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hariss63)](https://twitter.com/hariss63)
 [![Instagram Badge](https://img.shields.io/badge/-@tharis63-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/tharis63/)](https://www.instagram.com/tharis63/)
 [![Gmail Badge](https://img.shields.io/badge/-tharis63-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tharis63@gmail.com)](mailto:tharis63@.com)
 
